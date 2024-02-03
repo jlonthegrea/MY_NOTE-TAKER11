@@ -1,6 +1,9 @@
-[
+{
+"notes": [
     {
-        "title":"Test Title",
-        "text":"Test text"
+        "title": "Welcome to Note Taker!",
+        "text": "This is an application that will allow you to add notes. Once you have added a note you can save them by clicking the save icon.",
+        "id": "0"
     }
 ]
+}
