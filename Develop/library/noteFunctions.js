@@ -1,6 +1,5 @@
 const fs = require("fs");
 const path = require("path");
-const { stringify } = require("querystring");
 
 function createNote(body, notesArray) {
     const note = body;
